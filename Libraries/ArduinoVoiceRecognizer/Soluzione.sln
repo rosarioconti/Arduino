@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF51554C-BFD7-43B5-9151-7FE2628AC381}"
+	ProjectSection(SolutionItems) = preProject
+		phoneme.cpp = phoneme.cpp
+		signal.cpp = signal.cpp
+		statcollector.cpp = statcollector.cpp
+		vocab.cpp = vocab.cpp
+		voicerecognizer.h = voicerecognizer.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
