@@ -9,4 +9,4 @@ Arduino Folders
 
 - Libraries
 
-<img src="http://www.italike.com/githubimgs/arduino.jpg">
+<img src="http://www.italike.com/githubimgs/arduino.png">
